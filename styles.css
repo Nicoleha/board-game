@@ -1,0 +1,10 @@
+body{background-color:pink;}
+nav>ul{background-color: red;
+  text-align: right;
+}
+nav>ul>li{display:inline-block;
+  justify-content: space-between;
+  padding:35px;
+  color:white;
+  font-weight:900;
+}
